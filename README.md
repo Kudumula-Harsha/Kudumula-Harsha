@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Kudumula Harshavardhan</h1>
+<h1 align="center">Hey👋, I'm Kudumula Harshavardhan</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Machine Learning Engineer 🤖</h3>
 
 ---
