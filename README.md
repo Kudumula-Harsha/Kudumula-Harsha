@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Harsha Vardhan</h1>
+<h1 align="center">Hey Everyone 👋, I'm Kudumula Harshavardhan</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Machine Learning Engineer 🤖</h3>
 
 ---
@@ -39,11 +39,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
-</p>
