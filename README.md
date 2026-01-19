@@ -19,10 +19,11 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,sql,git" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,sql,aws,git,github" />
 </p>
+
 
 ---
 
